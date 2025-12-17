@@ -1,3 +1,3 @@
-# Disk-Scheduling-Algorithms-Simulation-Visualizer
+# Ai-Disk-Scheduling-Algorithms-Simulation-Visualizer
 
-Live Demo : https://disk-scheduling-algorithms-visualizer.netlify.app
+Live Demo : 
