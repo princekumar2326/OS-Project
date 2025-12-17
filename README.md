@@ -2,7 +2,7 @@
 
 Live Demo : https://ai-diskscheduling-os-project.netlify.app/
 
-AI-Disk Scheduling Algorithms
+AI-Disk Scheduling Algorithms:
 👉Project Overview
 
 The AI-Disk Scheduling Algorithms project is an intelligent, web-based simulation system designed to analyze and visualize disk scheduling techniques used in modern operating systems.
@@ -10,7 +10,7 @@ This project integrates algorithmic logic with AI-inspired decision analysis to 
 
 Unlike traditional static explanations, this system provides interactive simulations, enabling users to observe disk head movement and analyze performance metrics such as seek time and efficiency.
 
-👉AI Concept Used in the Project
+👉AI Concept Used in the Project:
 
 Although classic disk scheduling algorithms are rule-based, this project applies Artificial Intelligence principles such as:
 
@@ -24,7 +24,7 @@ Adaptive visualization to help users understand optimal scheduling patterns
 
 The project simulates how AI systems can assist operating systems in choosing the most efficient scheduling strategy under varying workloads.
 
-✨👉Algorithms Implemented
+✨👉Algorithms Implemented:
 
 The following disk scheduling algorithms are implemented and analyzed:
 
@@ -84,4 +84,25 @@ AI-Disk-Scheduling-Algorithms/
 ├── CSCAN/
 ├── LOOK/
 └── CLOOK/
+
+👉Learning Outcomes:
+
+Understanding disk scheduling algorithms through AI visualization
+
+Analyzing performance differences using intelligent comparison
+
+Applying AI concepts to traditional operating system problems
+
+Enhancing problem-solving and analytical skills
+
+👉Future Scope:
+
+Integration of Machine Learning models for real-time adaptive scheduling
+
+Automatic selection of best algorithm based on workload
+
+Graph-based performance analytics
+
+AI-based optimization of seek time
+
 
