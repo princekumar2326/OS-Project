@@ -41,3 +41,47 @@ LOOK – AI-optimized scanning without unnecessary traversal
 C-LOOK – enhanced LOOK with reduced seek overhead
 
 Each algorithm is visualized to demonstrate intelligent disk head movement and request servicing.
+
+
+🔗✨Technologies Used
+
+HTML5 – Structure and semantic design
+
+CSS3 – Responsive and interactive UI
+
+Bootstrap 4 – Modern, mobile-friendly layout
+
+JavaScript – Algorithm simulation and AI-style logic execution
+
+Key Features
+
+AI-inspired simulation of disk scheduling
+
+Real-time visualization of disk head movement
+
+Intelligent comparison of multiple algorithms
+
+User-friendly and educational interface
+
+Performance-oriented analysis for learning optimization
+
+
+🔗👉Project Structure
+AI-Disk-Scheduling-Algorithms/
+│
+├── index.html
+├── about.html
+├── compare.html
+├── css/
+│   └── style.css
+├── js/
+│   └── bootstrap.bundle.min.js
+├── images/
+│   └── project images
+├── FCFS/
+├── SSTF/
+├── SCAN/
+├── CSCAN/
+├── LOOK/
+└── CLOOK/
+
